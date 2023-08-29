@@ -6,7 +6,7 @@ int main() {
     printf(" - Inverted Right Half Pyramid - \n");
     printf("Enter Number : ");
     scanf("%d",&n);
-    n = 5;
+    // n = 5;
     
     for(i=1; i<=n; i++){
         

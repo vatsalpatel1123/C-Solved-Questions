@@ -17,6 +17,6 @@ int main()
     }
 
     printf("\n\n %d^%d = %lld\n\n", n, exp1, value);
-     printf("\n\n\n\n\t\t\tCoding is Fun !\n\n\n");
+   
     return 0;
 }

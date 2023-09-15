@@ -5,8 +5,12 @@
 | ------------- | -------------------------------------------------------- |
 | Check If A Given String Is Palindrome or not       | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Check-Palindrome-or-not.c |
 | Circular Rotation of an Array by n positions    | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Circular-Rotation-Array-Position.c |
-| Copy One String to Another using Recursion      | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Copy-String-To-Another-String.c |
-
+|  Count the number of Vowels and Consonants |  https://github.com/vatsalpatel1123/C-Solved-Questions/commit/3de365f72ff53c7b8ed49769fce609980a29f991 |
+| Count the Number of Repeated Occurrences of a particular word in a St…  | https://github.com/vatsalpatel1123/C-Solved-Questions/commit/13172f17c3585136281d4587eddb05eff527324d |
+| Count Number of Words in Sentence  | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Count-Number-of-Words-in-sentence.c |
+|   |  |
+|   |  |
+|   |  |
 
 ### Practice  
 - Pick a language  

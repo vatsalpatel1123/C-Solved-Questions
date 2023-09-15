@@ -14,6 +14,10 @@
 | Find GCD Of The Given Numbers Using Recursion | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-GCD.c |
 | Find LCM Of A Number Using Recursion | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-LCM.c |
 | Find Second Smallest and Second Largest Element in Array | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-Second-Smallest-Second-Largest-Element.c |
+| Find Transpose of a Matrix | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-Transpose-Matrix.c |
+| Find Largest element in a column | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-largest-element-in-column.c |
+|  |  |
+|  |  |
 |  |  |
 |  |  |
 

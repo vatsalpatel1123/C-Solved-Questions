@@ -36,10 +36,10 @@
 | Quick sort | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/quick-sort.c |
 | Multipication and store info | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/multiply-two-numbers.c |
 | linear search | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/linear-search.c |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Find Sum of each row and column in a matrix | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/sum-matrix-row-col.c |
+| Find Sum of upper triangular matrix | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/sum-martix-upper-part.c |
+| Find Sum of lower triangular matrix | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/sum-martix-lower-part.c |
+| Multipication and store info | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/store-information.c |
 
 ### Practice  
 - Pick a language  

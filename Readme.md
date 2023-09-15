@@ -16,6 +16,12 @@
 | Find Second Smallest and Second Largest Element in Array | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-Second-Smallest-Second-Largest-Element.c |
 | Find Transpose of a Matrix | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-Transpose-Matrix.c |
 | Find Largest element in a column | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-largest-element-in-column.c |
+| Reverse The String Using Recursion | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Reverse-String.c |
+| Remove Given Word From A String | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Remove-Given-Word-From-String.c |
+| Merge Two Arrays | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Merge-two-array.c |
+| Find Largest element in a row | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-largest-element-in-row.c |
+|  |  |
+|  |  |
 |  |  |
 |  |  |
 |  |  |

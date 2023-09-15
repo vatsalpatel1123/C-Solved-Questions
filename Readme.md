@@ -20,6 +20,10 @@
 | Remove Given Word From A String | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Remove-Given-Word-From-String.c |
 | Merge Two Arrays | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Merge-two-array.c |
 | Find Largest element in a row | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-largest-element-in-row.c |
+| Binary search | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/binary-search.c |
+| Addition of two complex number | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/addition-two-complex-number.c |
+| Sum Of A P Series | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Sum-of-AP-Series.c |
+| Sum of G.P. Series | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Sum-GP-series.c |
 |  |  |
 |  |  |
 |  |  |

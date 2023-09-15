@@ -11,6 +11,11 @@
 | Find The Factorial Of A Number Using Recursion  | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-Factorial-Number.c |
 | Divsion and reminder  | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Division-Two-Numbers.c |
 | Alphabets A-Z using loop  | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Display-A-Z.c |
+| Find GCD Of The Given Numbers Using Recursion | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-GCD.c |
+| Find LCM Of A Number Using Recursion | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-LCM.c |
+| Find Second Smallest and Second Largest Element in Array | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-Second-Smallest-Second-Largest-Element.c |
+|  |  |
+|  |  |
 
 ### Practice  
 - Pick a language  

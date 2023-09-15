@@ -8,9 +8,9 @@
 |  Count the number of Vowels and Consonants |  https://github.com/vatsalpatel1123/C-Solved-Questions/commit/3de365f72ff53c7b8ed49769fce609980a29f991 |
 | Count the Number of Repeated Occurrences of a particular word in a St…  | https://github.com/vatsalpatel1123/C-Solved-Questions/commit/13172f17c3585136281d4587eddb05eff527324d |
 | Count Number of Words in Sentence  | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Count-Number-of-Words-in-sentence.c |
-|   |  |
-|   |  |
-|   |  |
+| Find The Factorial Of A Number Using Recursion  | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Find-Factorial-Number.c |
+| Divsion and reminder  | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Division-Two-Numbers.c |
+| Alphabets A-Z using loop  | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Display-A-Z.c |
 
 ### Practice  
 - Pick a language  

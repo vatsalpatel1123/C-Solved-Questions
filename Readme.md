@@ -24,6 +24,10 @@
 | Addition of two complex number | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/addition-two-complex-number.c |
 | Sum Of A P Series | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Sum-of-AP-Series.c |
 | Sum of G.P. Series | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/Sum-GP-series.c |
+| find the Largest nth number | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/find-Largest-number.c |
+| Find Frequency of each element of array | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/find-Frequency-array.c |
+| Find Distinct Element in Array | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/find-Distinct-element-in-array.c |
+| Check Prime Number | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/check-prime-number.c |
 |  |  |
 |  |  |
 |  |  |

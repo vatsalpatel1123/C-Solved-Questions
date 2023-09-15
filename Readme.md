@@ -28,6 +28,10 @@
 | Find Frequency of each element of array | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/find-Frequency-array.c |
 | Find Distinct Element in Array | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/find-Distinct-element-in-array.c |
 | Check Prime Number | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/check-prime-number.c |
+| Get Length of String | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/get-length-of-string.c |
+| Find Perfect Number | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/find-perfect-number.c |
+| Find Max repeat element in array | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/find-max-repeat-element-in-array.c |
+| find exponential | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/find-exponential.c |
 |  |  |
 |  |  |
 |  |  |

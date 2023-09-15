@@ -32,8 +32,10 @@
 | Find Perfect Number | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/find-perfect-number.c |
 | Find Max repeat element in array | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/find-max-repeat-element-in-array.c |
 | find exponential | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/find-exponential.c |
-|  |  |
-|  |  |
+| Sort Array Using Frequency | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/sort-array-using-frequency.c |
+| Quick sort | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/quick-sort.c |
+| Multipication and store info | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/multiply-two-numbers.c |
+| linear search | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/linear-search.c |
 |  |  |
 |  |  |
 |  |  |

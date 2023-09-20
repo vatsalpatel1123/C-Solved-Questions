@@ -41,6 +41,13 @@
 | Find Sum of lower triangular matrix | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/sum-martix-lower-part.c |
 | Multipication and store info | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/store-information.c |
 
+### Pattern
+| Name          |  Link                                                    |
+| ------------- | -------------------------------------------------------- |
+| Hollow Square | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-1.c |
+| Hallow Diamond Pattern | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-2.c |
+| Right Half Pyramid | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-3 |
+| Left Half Pyramid | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-4.c |
 ### Practice  
 - Pick a language  
 - Learn topic  

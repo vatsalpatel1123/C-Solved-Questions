@@ -59,10 +59,8 @@
 | Mirror Pattern | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-14.c |
 | Floyd's Triangle | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-15.c |
 | Pascal's Triangle | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-16.c |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| X pattern | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-17.c |
+| Plus Pattern | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-18.c |
 
 
 ### Practice  

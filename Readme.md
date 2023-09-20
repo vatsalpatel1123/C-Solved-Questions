@@ -48,6 +48,16 @@
 | Hallow Diamond Pattern | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-2.c |
 | Right Half Pyramid | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-3 |
 | Left Half Pyramid | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-4.c |
+| Full Pyramid | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-6.c |
+| Inverted Full Pyramid | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-7.c |
+| Rhombus Pattern | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-9.c |
+| Inverted Left Half Pyramid | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-8.c |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+
 ### Practice  
 - Pick a language  
 - Learn topic  

@@ -52,6 +52,10 @@
 | Inverted Full Pyramid | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-7.c |
 | Rhombus Pattern | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-9.c |
 | Inverted Left Half Pyramid | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-8.c |
+| Hollow Full Pyramid | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-10.c |
+| Hourglass Pattern | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-11.c |
+| Hollow Hourglass Pattern | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-12.c |
+| Diamond Pattern | https://github.com/vatsalpatel1123/C-Solved-Questions/blob/master/pattern-13.c |
 |  |  |
 |  |  |
 |  |  |
